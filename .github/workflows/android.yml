@@ -30,7 +30,7 @@ jobs:
 
         distribution: 'temurin'
 
-        cache: gradle
+        cache: gradle 
 
     - name: Grant execute permission for gradlew
 
